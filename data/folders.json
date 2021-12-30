@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "id": 1,
+      "route": "rose-corp",
+      "title": "Rose Corp",
+      "description": "this is a description",
+      "posts": 30
+    },
+    {
+      "id": 2,
+      "route": "sketches",
+      "title": "My Sketchbook",
+      "description": "this is a description",
+      "posts": 30
+    }
+  ]
+}
